@@ -1,6 +1,6 @@
 # MAC Changer
 
-Mac changer is a simple python script to change mac address
+Mac changer is a simple python script to change the mac address of kali linux interface
 
 
 Usage:
